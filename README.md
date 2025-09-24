@@ -41,7 +41,9 @@ Este repositório reúne dois projetos desenvolvidos em **Python no Google Colab
 - Python (Google Colab)
 - Bibliotecas: `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`
 
-## 📚 Matéria - Mineração de Dados (Data Mining) Fatec Franca
-**Students:**  
+## 📚 Informações Acadêmicas:
+
+**Matéria:** Mineração de Dados (Data Mining) - Fatec Franca  
+**Alunos:**  
 - Paula Cristina Abib Teixeira  
 - Allison
