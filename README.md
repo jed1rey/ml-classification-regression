@@ -46,4 +46,4 @@ Este repositório reúne dois projetos desenvolvidos em **Python no Google Colab
 **Matéria:** Mineração de Dados (Data Mining) - Fatec Franca  
 **Alunos:**  
 - Paula Cristina Abib Teixeira  
-- Allison
+- Allison Rodrigues de Paula e Silva
